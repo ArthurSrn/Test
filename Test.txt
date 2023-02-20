@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 
 holla hello bonjouuu nouvelle branch tesssst
+=======
+holla hello bonjouuu nouvelle branch tesssst
+
+
+>>>>>>> newbranch
