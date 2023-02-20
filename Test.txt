@@ -1,7 +1,5 @@
-<<<<<<< Updated upstream
-holla hello bonjouuu
-=======
+
 
 
 holla hello bonjouuu nouvelle branch tesssst
->>>>>>> Stashed changes
+
